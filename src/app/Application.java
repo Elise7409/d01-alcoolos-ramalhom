@@ -24,6 +24,7 @@ public class Application {
                 System.out.println("Il y a " + nombrePaire + " nombre pairs dans le tableau");
                 System.out.println("La moyenne des nombres du tableau est " + moyenne(tab));
         }
+        
 
         public static double moyenne(int[] tab) {
                 int somme = 0;
